@@ -1,0 +1,2 @@
+# or add custom apt repos (only required if using packages outside of the standard Ubuntu APT repositories)
+:repo:deb http://aryanrh.archive.ubuntu.com/ubuntu/ jammy main multiverse universe restricted
